@@ -1,3 +1,3 @@
 # PortfolioProjects
 
-For now this repo is for getting used to work with git. Later on I will commit real Projects in here. 
+This is to show some beginner projects and getting used to work with git. 
